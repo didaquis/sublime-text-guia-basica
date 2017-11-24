@@ -1,7 +1,7 @@
 Sublime Text - guía básica
 ==========================
 
-Una web sencilla para que puedas consultar algunos de los atajos de teclado para macOS más útiles para Sublime Text.
+Una web sencilla para consultar algunos de los atajos de teclado más útiles en Sublime Text (versión macOS).
 
 Puedes usar esta web directamente en tu equipo local (no es necesario disponer de servidor web). Simplemente abré el fichero "index.html" en tu navegador.
 
