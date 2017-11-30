@@ -1,0 +1,23 @@
+# http://humanstxt.org
+
+
+/* TEAM */
+
+Name: Dídac G.
+Role: Web Developer.
+Twitter: @didaquis
+GitHub: https://github.com/didaquis
+From: Terrassa, Spain.
+
+
+/* SITE */
+
+Published: 2017
+Language: castellano (spanish).
+Technology colophon: Bootstrap (https://getbootstrap.com).
+
+
+
+/* OFF-TOPIC */
+
+I will never forget that keyboard shortcut!
