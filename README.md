@@ -5,7 +5,7 @@ Una **web** sencilla para consultar algunos de los **atajos de teclado** más ú
 
 Puedes usar esta web **directamente en tu equipo** local (no es necesario disponer de servidor web). Simplemente abré el fichero `index.html` en tu navegador.
 
-_Recomendación_: Una vez abierto en el navegador, si quieres puedes guardarte el enlace en tu barra de favoritos. De esto modo, con un solo click tendrás a mano el listado de atajos.
+_Recomendación_: Una vez abierto en el navegador, si quieres puedes guardarte el enlace en tu barra de favoritos. De este modo, con un solo click tendrás siempre a mano el listado de atajos (incluso cuando no estés conectado a Internet).
 
 --------------------------
 
