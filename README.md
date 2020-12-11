@@ -7,6 +7,8 @@ Puedes usar esta web **directamente en tu equipo** (no es necesario disponer de 
 
 💡 _Recomendación_: Una vez abierto en el navegador, si quieres puedes guardarte el enlace en tu barra de favoritos. De este modo, con un solo click tendrás siempre a mano el listado de atajos (incluso cuando no estés conectado a Internet).
 
+Proyecto publicado aquí: https://sublime-text.surge.sh 
+
 --------------------------
 
 ![Imagen de muestra de la página web](img/preview.png)
