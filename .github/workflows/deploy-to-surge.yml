@@ -1,11 +1,13 @@
-name: Deploy
+# This workflow will do an automated deployment on Surge.sh
+
+name: Node.js CI - Deploy to Surge.sh
 
 on:
   push:
     branches: [ main ]
 
 jobs:
-    runs-on: ubuntu-latest
+  runs-on: ubuntu-latest
 
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
